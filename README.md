@@ -1,6 +1,6 @@
 # Python Calculator
 
-This is my first Python project. It’s a simple calculator that can do:
+This is a Python project. It’s a simple calculator that can do:
 
 - Addition
 - Subtraction
